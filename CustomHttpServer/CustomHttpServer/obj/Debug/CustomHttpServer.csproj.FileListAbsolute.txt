@@ -1,0 +1,9 @@
+D:\SoftUni\MyProjects\CustomHttpServer\CustomHttpServer\bin\Debug\CustomHttpServer.dll
+D:\SoftUni\MyProjects\CustomHttpServer\CustomHttpServer\bin\Debug\CustomHttpServer.pdb
+D:\SoftUni\MyProjects\CustomHttpServer\CustomHttpServer\obj\Debug\CustomHttpServer.dll
+D:\SoftUni\MyProjects\CustomHttpServer\CustomHttpServer\obj\Debug\CustomHttpServer.pdb
+D:\SoftUni\MyProjects\CustomHttpServer\CustomHttpServer\obj\Debug\CustomHttpServer.csprojResolveAssemblyReference.cache
+D:\SoftUni\MyProjects\CustomMVC\CustomHttpServer\CustomHttpServer\bin\Debug\CustomHttpServer.dll
+D:\SoftUni\MyProjects\CustomMVC\CustomHttpServer\CustomHttpServer\bin\Debug\CustomHttpServer.pdb
+D:\SoftUni\MyProjects\CustomMVC\CustomHttpServer\CustomHttpServer\obj\Debug\CustomHttpServer.dll
+D:\SoftUni\MyProjects\CustomMVC\CustomHttpServer\CustomHttpServer\obj\Debug\CustomHttpServer.pdb

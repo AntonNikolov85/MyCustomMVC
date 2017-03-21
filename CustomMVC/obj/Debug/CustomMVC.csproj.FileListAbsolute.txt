@@ -1,0 +1,4 @@
+D:\SoftUni\MyProjects\CustomMVC\CustomMVC\bin\Debug\CustomMVC.dll
+D:\SoftUni\MyProjects\CustomMVC\CustomMVC\bin\Debug\CustomMVC.pdb
+D:\SoftUni\MyProjects\CustomMVC\CustomMVC\obj\Debug\CustomMVC.dll
+D:\SoftUni\MyProjects\CustomMVC\CustomMVC\obj\Debug\CustomMVC.pdb
