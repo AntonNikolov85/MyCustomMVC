@@ -43,6 +43,8 @@
     <Compile Include="Attributes\Methods\HttpGetAttribute.cs" />
     <Compile Include="Attributes\Methods\HttpMethodAttribute.cs" />
     <Compile Include="Attributes\Methods\HttpPostAttribute.cs" />
+    <Compile Include="Controllers\Controller.cs" />
+    <Compile Include="Extensions\StringExtensions.cs" />
     <Compile Include="Interfaces\Generic\IActionResult.cs" />
     <Compile Include="Interfaces\Generic\IRenderable.cs" />
     <Compile Include="Interfaces\IActionResult.cs" />
@@ -51,12 +53,16 @@
     <Compile Include="Interfaces\IRenderable.cs" />
     <Compile Include="MvcContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Routers\ControllerRouter.cs" />
     <Compile Include="ViewEngine\ActionResult.cs" />
     <Compile Include="ViewEngine\Generic\ActionResult.cs" />
   </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
-    <Folder Include="Controllers\" />
-    <Folder Include="Routers\" />
+    <ProjectReference Include="..\CustomHttpServer\CustomHttpServer\CustomHttpServer.csproj">
+      <Project>{a75b0aec-490b-4d47-80fe-fd478685e09b}</Project>
+      <Name>CustomHttpServer</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -2,3 +2,10 @@ D:\SoftUni\MyProjects\CustomMVC\CustomMVC\bin\Debug\CustomMVC.dll
 D:\SoftUni\MyProjects\CustomMVC\CustomMVC\bin\Debug\CustomMVC.pdb
 D:\SoftUni\MyProjects\CustomMVC\CustomMVC\obj\Debug\CustomMVC.dll
 D:\SoftUni\MyProjects\CustomMVC\CustomMVC\obj\Debug\CustomMVC.pdb
+D:\SoftUni\MyProjects\MyCustomMVC\CustomMVC\bin\Debug\CustomMVC.dll
+D:\SoftUni\MyProjects\MyCustomMVC\CustomMVC\bin\Debug\CustomMVC.pdb
+D:\SoftUni\MyProjects\MyCustomMVC\CustomMVC\bin\Debug\CustomHttpServer.dll
+D:\SoftUni\MyProjects\MyCustomMVC\CustomMVC\bin\Debug\CustomHttpServer.pdb
+D:\SoftUni\MyProjects\MyCustomMVC\CustomMVC\obj\Debug\CustomMVC.csprojResolveAssemblyReference.cache
+D:\SoftUni\MyProjects\MyCustomMVC\CustomMVC\obj\Debug\CustomMVC.dll
+D:\SoftUni\MyProjects\MyCustomMVC\CustomMVC\obj\Debug\CustomMVC.pdb
